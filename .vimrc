@@ -1,3 +1,4 @@
+" Basis-Konfigurationen
 set number
 set mouse=a
 set cin
